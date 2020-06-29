@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ghost</title>
+  
+  <subtitle>Mr.Ghost</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/mr-ghost-s/"/>
+  <updated>2019-08-26T10:05:48.000Z</updated>
+  <id>https://github.com/mr-ghost-s/</id>
+  
+  <author>
+    <name>Mr.Ghost</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单片机STM32-入门学习</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/dan-pian-ji-stm32-ru-men-xue-xi/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/dan-pian-ji-stm32-ru-men-xue-xi/</id>
+    <published>2020-03-11T10:25:06.463Z</published>
+    <updated>2019-08-26T10:05:48.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="单片机技术" scheme="https://github.com/mr-ghost-s/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="STM32" scheme="https://github.com/mr-ghost-s/tags/STM32/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用OneNote键盘快捷方式</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/chang-yong-one-note-jian-pan-kuai-jie-fang-shi/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/chang-yong-one-note-jian-pan-kuai-jie-fang-shi/</id>
+    <published>2020-03-11T10:25:06.463Z</published>
+    <updated>2019-08-26T10:04:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技能杂烩" scheme="https://github.com/mr-ghost-s/categories/%E6%8A%80%E8%83%BD%E6%9D%82%E7%83%A9/"/>
+    
+    
+      <category term="One Note" scheme="https://github.com/mr-ghost-s/tags/One-Note/"/>
+    
+      <category term="快捷键" scheme="https://github.com/mr-ghost-s/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摄影入门-相机选择</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/she-ying-ru-men-xiang-ji-xuan-ze/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/she-ying-ru-men-xiang-ji-xuan-ze/</id>
+    <published>2020-03-11T10:25:06.463Z</published>
+    <updated>2020-03-03T08:23:57.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="摄影学习" scheme="https://github.com/mr-ghost-s/categories/%E6%91%84%E5%BD%B1%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="相机" scheme="https://github.com/mr-ghost-s/tags/%E7%9B%B8%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日系后摇乐队-Envy</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/ri-xi-hou-yao-jian-shang-envy-le-dui/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/ri-xi-hou-yao-jian-shang-envy-le-dui/</id>
+    <published>2020-03-11T10:25:06.463Z</published>
+    <updated>2019-08-26T13:39:07.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;center&gt;&lt;strong&gt;阅历疏浅，文笔有限，仅供个人所感表达，不做观点输出。&lt;/strong&gt;&lt;/center&gt;&lt;br&gt;&lt;embed
+        
+      
+    
+    </summary>
+    
+      <category term="音乐鉴赏" scheme="https://github.com/mr-ghost-s/categories/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F/"/>
+    
+    
+      <category term="后摇" scheme="https://github.com/mr-ghost-s/tags/%E5%90%8E%E6%91%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android开发环境部署</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/android-kai-fa-huan-jing-bu-shu/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/android-kai-fa-huan-jing-bu-shu/</id>
+    <published>2020-03-11T10:25:06.448Z</published>
+    <updated>2019-08-26T10:00:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Android开发" scheme="https://github.com/mr-ghost-s/categories/Android%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Android" scheme="https://github.com/mr-ghost-s/tags/Android/"/>
+    
+      <category term="开发环境" scheme="https://github.com/mr-ghost-s/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown在线编辑器 MdEditor官方介绍</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/markdown-zai-xian-bian-ji-qi-mdeditor-guan-fang-jie-shao/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/markdown-zai-xian-bian-ji-qi-mdeditor-guan-fang-jie-shao/</id>
+    <published>2020-03-11T10:25:06.448Z</published>
+    <updated>2019-08-26T10:04:28.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技能杂烩" scheme="https://github.com/mr-ghost-s/categories/%E6%8A%80%E8%83%BD%E6%9D%82%E7%83%A9/"/>
+    
+    
+      <category term="Markdown" scheme="https://github.com/mr-ghost-s/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《月亮和六便士》</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/yue-liang-he-liu-bian-shi/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/yue-liang-he-liu-bian-shi/</id>
+    <published>2020-03-11T10:25:06.448Z</published>
+    <updated>2019-09-04T10:58:33.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://github.com/mr-ghost-s/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://github.com/mr-ghost-s/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Windows通用键盘快捷方式</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/chang-yong-windows-tong-yong-jian-pan-kuai-jie-fang-shi/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/chang-yong-windows-tong-yong-jian-pan-kuai-jie-fang-shi/</id>
+    <published>2020-03-11T10:25:06.448Z</published>
+    <updated>2019-08-26T10:04:12.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技能杂烩" scheme="https://github.com/mr-ghost-s/categories/%E6%8A%80%E8%83%BD%E6%9D%82%E7%83%A9/"/>
+    
+    
+      <category term="快捷键" scheme="https://github.com/mr-ghost-s/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+      <category term="Windows" scheme="https://github.com/mr-ghost-s/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用数学符号的Latex线性格式</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/chang-yong-shu-xue-fu-hao-de-latex-xian-xing-ge-shi/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/chang-yong-shu-xue-fu-hao-de-latex-xian-xing-ge-shi/</id>
+    <published>2020-03-11T10:25:06.448Z</published>
+    <updated>2019-09-04T10:51:38.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技能杂烩" scheme="https://github.com/mr-ghost-s/categories/%E6%8A%80%E8%83%BD%E6%9D%82%E7%83%A9/"/>
+    
+    
+      <category term="Latex" scheme="https://github.com/mr-ghost-s/tags/Latex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吉他学习-入门选择</title>
+    <link href="https://github.com/mr-ghost-s/2020/03/11/ji-ta-xue-xi-ru-men-xuan-ze/"/>
+    <id>https://github.com/mr-ghost-s/2020/03/11/ji-ta-xue-xi-ru-men-xuan-ze/</id>
+    <published>2020-03-11T10:25:06.432Z</published>
+    <updated>2019-08-26T10:06:16.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="吉他学习" scheme="https://github.com/mr-ghost-s/categories/%E5%90%89%E4%BB%96%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="吉他" scheme="https://github.com/mr-ghost-s/tags/%E5%90%89%E4%BB%96/"/>
+    
+  </entry>
+  
+</feed>
